@@ -1,0 +1,57 @@
+.header{
+  background-color: lightpink;
+  height: 90px;
+}
+
+span{
+  color: gold;
+}
+
+p span{
+
+  color:red;
+  
+}
+
+
+h1{
+  color: white;
+  text-align: center;
+  font-size: 50px;
+}
+
+p{  font-size: 20px;
+  word-break: keep-all;
+
+}
+
+h2{
+  text-align: center;
+  word-break: keep-all;
+
+}
+
+p{
+  text-align: center;
+}
+
+.main-logo{
+  padding-left: 230px;
+}
+
+h3{
+  text-align: center;
+  padding-right: 200px;
+  word-break: keep-all;
+}
+
+.section{
+  text-align: center;
+  padding-right: 80px;
+  
+  
+}
+
+ul {
+  list-style: none;
+}
